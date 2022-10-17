@@ -8,4 +8,4 @@ Emulation is a tractable way of producing realizations of observed shear catalog
 PubDB: https://portal.lsstdesc.org/DESCPub/app/PB/show_project?pid=278&message=email%20sent
 
 
-LSST-DESC
+LSST-DESC 2022
